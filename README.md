@@ -4,7 +4,7 @@ My name is Ali.
 I'm a Ph.D. student at Virginia Tech, and I'm working on Robotics and Controls.
 
 - 🔭 I’m currently working on the locomotion of legged robots.
-- ⚡ Fun fact: I love to play 🏓 because my mind keeps solving optimization, control, and decision-making problems in the twinkling of an eye!
+- ⚡ Fun fact: I love to play 🏓 because it helps my mind solve perception, control, and decision-making problems in the twinkling of an eye!
   
 <!--
 **AliMMSadeghi/AliMMSadeghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Ali.
 I'm a Ph.D. student at Virginia Tech, and I'm working on Robotics and Controls.
 
 - 🔭 I’m currently working on the locomotion of legged robots.

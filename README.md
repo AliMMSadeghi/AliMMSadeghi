@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Ali :)
+I'm a Ph.D student at Virginia Tech, and I'm working on Robotics and Controls.
+
 <!--
 **AliMMSadeghi/AliMMSadeghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

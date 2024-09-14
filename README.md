@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-My name is Ali.
-I'm a Ph.D. student at Virginia Tech, and I'm working on Robotics and Controls.
+My name is Ali. Ph.D. student in Mechanical Engineering at Virginia Tech, specializing in Robotics, Autonomous & Dynamical Systems. I hold an M.Sc. in Mechanical Engineering focusing on Vehicle Dynamics.
 
 - 🔭 I’m currently working on the locomotion of legged robots.
 - ⚡ Fun fact: I love to play 🏓 because it helps my mind solve perception, control, and decision-making problems in the twinkling of an eye!

@@ -2,8 +2,8 @@
 
 🚀 Ali M. Sadeghi | Ph.D. Student @ Virginia Tech | Robotics & Autonomous Systems
 
-Passionate about quadrupedal robotics, nonlinear control, and data-driven algorithms. Developed advanced MPC and learning-based controllers for agile locomotion and manipulation. My experience spans autonomous vehicles and vehicle dynamics at CNH Industrial. Skilled in C++, MATLAB, Python, ROS, and RaiSim.
-- 🔭 I’m currently working on the locomotion of legged robots.
+Passionate about robotics, control, and data-driven algorithms. Developed advanced MPC and learning-based controllers for agile locomotion and manipulation. My experience spans autonomous vehicles and vehicle dynamics at CNH Industrial. Skilled in C++, MATLAB, Python, ROS, and RaiSim.
+- 🔭 I’m currently working on the Loco-manipulation of legged robots.
 - ⚡ Fun fact: I love to play 🏓 because it helps my mind solve perception, control, and decision-making problems in the twinkling of an eye!
   
 <!--

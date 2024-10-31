@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-My name is Ali. Ph.D. student in Mechanical Engineering at Virginia Tech, specializing in Robotics, Autonomous & Dynamical Systems. I hold an M.Sc. in Mechanical Engineering focusing on Vehicle Dynamics.
+🚀 Ali M. Sadeghi | Ph.D. Student @ Virginia Tech | Robotics & Autonomous Systems
 
+Passionate about quadrupedal robotics, nonlinear control, and data-driven algorithms. Developed advanced MPC and learning-based controllers for agile locomotion and manipulation. My experience spans autonomous vehicles and vehicle dynamics at CNH Industrial. Skilled in C++, MATLAB, Python, ROS, and RaiSim.
 - 🔭 I’m currently working on the locomotion of legged robots.
 - ⚡ Fun fact: I love to play 🏓 because it helps my mind solve perception, control, and decision-making problems in the twinkling of an eye!
   
